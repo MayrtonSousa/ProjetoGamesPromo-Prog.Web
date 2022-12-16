@@ -3,7 +3,7 @@
 }
 @font-face {
   font-family: "game";
-  src: url('/fonts/Gamer.ttf'); 
+  src: url('../fonts/Gamer.ttf'); 
   font-weight: normal;
   font-style: normal;
 }
